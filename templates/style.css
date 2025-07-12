@@ -1,0 +1,40 @@
+/* HIDES SCROLL BAR VISUALLY BUT ALLOWS SCROLL FUNCTIONALITY */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.navbar.fixed-top {
+  z-index: 1030;
+  width: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* NAVBAR DROPDOWN MENU - PROFILE */
+.dropdown-menu{
+  background-color: #06597a;
+  color: #e4e9eb;
+}
+
+.dropdown-item{
+  background-color: #06597a;
+  color: #e4e9eb;
+}
+
+.dropdown-item:hover{
+  font-weight:600;
+  background-color: #06597a;
+  color: #e4e9eb;
+}
+
+/* SEARCH BUTTON CUSTOM STYLING */
+.searchbtn:hover {
+  color: #06597a;
+  background-color: #e4e9eb;
+  border-color: #06597a;
+}
+
+.searchbtn {
+  background-color: #06597a;
+  color: #e4e9eb;
+  border-color: white;
+}

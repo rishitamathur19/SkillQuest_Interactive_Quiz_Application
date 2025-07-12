@@ -1,0 +1,50 @@
+.card {
+    position: relative;
+    background-size: 15%;
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+
+.c {
+    background-image: url('../images/categories/c.png');
+}
+
+.cpp {
+    background-image: url('../images/categories/CPP.png');
+}
+
+.php {
+    background-image: url('../images/categories/php.png');
+}
+
+.python {
+    background-image: url('../images/categories/python.png');
+}
+
+.java {
+    background-image: url('../images/categories/java.png');
+}
+
+.sql {
+    background-image: url('../images/categories/sql.png');
+}
+
+.mongodb {
+    background-image: url('../images/categories/mongodb.png');
+}
+
+.aptitude {
+    background-image: url('../images/categories/aptitude.png');
+}
+
+.reasoning {
+    background-image: url('../images/categories/reasoning.png');
+}
+
+.verbal {
+    background-image: url('../images/categories/verbal.png');
+}
+
+.verbalreason {
+    background-image: url('../images/categories/verbalreason.png');
+}
